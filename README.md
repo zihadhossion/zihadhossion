@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zihadhossion&label=Profile%20views&color=0e75b6&style=flat" alt="zihadhossion" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **zihadhossion2005@gmail.com**
 
