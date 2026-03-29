@@ -1,12 +1,18 @@
-<h3 align="center">I'm Front-end Developer</h3>
+<h1 align="center">Hi 👋, I'm Zihad Hossion</h1>
+<h3 align="center">🚀 Full-stack Developer (Front-end focused)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zihadhossion&label=Profile%20views&color=0e75b6&style=flat" alt="zihadhossion" /> </p>
 
-- 🌱 I’m currently learning **Nest.js**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **React.js**
+* 💻 I’m a **Full-stack Developer** with strong focus on Frontend
+* 🌱 Currently learning **Nest.js** & Backend Architecture
+* ⚛️ Love building apps with **React.js & Next.js**
+* 🔥 Passionate about clean UI, performance & scalable apps
+* 💬 Ask me about **React, JavaScript, UI/UX**
 
-- 📫 How to reach me **zihadhossion2005@gmail.com**
+### 📫 Contact Me
+* 📧 Email: **[zihadhossion2005@gmail.com](mailto:zihadhossion2005@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
