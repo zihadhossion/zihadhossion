@@ -9,7 +9,7 @@
 * 🌱 Currently learning **Nest.js** & Backend Architecture
 * ⚛️ Love building apps with **React.js & Next.js**
 * 🔥 Passionate about clean UI, performance & scalable apps
-* 💬 Ask me about **React, JavaScript, UI/UX**
+* 💬 Ask me about **React, JavaScript**
 
 ### 📫 Contact Me
 * 📧 Email: **[zihadhossion2005@gmail.com](mailto:zihadhossion2005@gmail.com)**
